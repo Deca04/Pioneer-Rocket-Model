@@ -6,6 +6,7 @@ Pioneer was created with the idea of building a moderate-capacity launcher capab
 
 ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/deb713de-2298-43a4-b628-20901f1bacd1)
 
+# The engine Block
 Pioneer's engine block, the rocket's solid-fuel engine housing, is one of the new features that our launcher mounts. In fact, the bay is modular, meaning that in combination with different and interchangeable fins it is possible to fit engines with different diameters and lengths without actually rebuilding a new model capable of doing so; the stability is preserved. In order to have sufficient thrust to collect solid data and images of interest, Pioneer is designed to accommodate only engines no smaller than 24 millimeters in diameter and no less than an F/G class according to international classification criteria, even though the model can mount Laika Aerospace-manufactured engines. Rendered images and technical drawings related to housing a 24mm engine follow.
 The engine compartment is entirely molded from PLA, and as noted in the picture is closed at the bottom by a truncated cone screwed into the base of the compartment, and at the top sealed by another block with a center hole. The first serves as a block for stable and secure housing, the second as a point of contact for the motor during thrust (morally to prevent the third principle of dynamics from throwing the motor up to the nosecone). Important note, zones of indentation in the press simply allow for savings in weight and overall aerodynamics, as the total mass of the block maintains a center of mass of the rocket corresponding with the rocket's center of gravity, this with or without the fuel mass. Below are precise technical drawings of the upper (1) and lower (2) blocks. 
 
@@ -13,9 +14,12 @@ The engine compartment is entirely molded from PLA, and as noted in the picture 
 
 
 * Block 1:
+
 ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/483aa75c-348e-45ce-b3a3-05964f712eb8) ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/4f05dad8-b1e9-4879-8899-bb85ef393b92)
 
-Block 2:
+* Block 2:
+
 ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/d56e6fd0-1b00-4d23-8a94-04db0a0a864f)   ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/92d45f85-7b4b-48e4-8237-75f9f223daa7)
+
 
    
