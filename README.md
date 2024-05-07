@@ -3,6 +3,7 @@ Laika Aerospace's project, mid power rocket model. The repository contains openR
 
 # Introduction
 Pioneer was created with the idea of building a moderate-capacity launcher capable of testing advanced avionics and recovery systems in unfavorable territory for rocket flight characterized by high apogee. First, Pioneer's payload (FC and camera) hosts a new avionics system, Spike, entirely designed and manufactured by Laika Aerospace. The Flight Computer makes it possible to accurately collect data during flight save and/or send it to the ground. This ensures a pre-flight check of the implemented sensors and constant communications throughout the rocket's flight. The flight computer also allows control of recovery systems (deployment or dual deployment). In addition, Pioneer mounts the new wing and engine block system that can be modulated according to the more or less powerful solid engine configuration. Pioneer will enable future launchers to implement reliable and adequately tested technologies, with the idea of reaching higher apogees and loads. This article discusses the first version and configuration of the rocket, it can however as we will see be modulated to reach Mach 1 and an apogee of 2km.
+Pioneer 3d simulation could be find in this repository https://github.com/Deca04/3D-Rocket-Flight-Simulation .
 
 ![image](https://github.com/Deca04/Pioneer-Rocket-Model/assets/73656989/deb713de-2298-43a4-b628-20901f1bacd1)
 
