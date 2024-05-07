@@ -18,5 +18,3 @@ Too high (SM or FSM > 2): A rocket with a very high static or flight stability i
 Too low (SM or FSM < 1): A rocket with too low a static or flight stability index may be unstable and tilt or wobble during flight. This can lead to dangerous situations, so it is important to avoid too low a stability value.
 
 In general, it is important to strike a balance between stability and maneuverability. A stability index between 1.5 and 2 is a good starting point for designing a stable and maneuverable rocket. 
-
-Translated with DeepL.com (free version)
