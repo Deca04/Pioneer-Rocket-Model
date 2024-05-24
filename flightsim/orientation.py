@@ -1,8 +1,8 @@
 import open3d as o3d
 import numpy as np
 
-N = 1000
-dt = 0.01
+N = 500
+dt = 0.05
 
 def integrate(prev_value, delta, dt):
     return prev_value + delta * dt
@@ -38,7 +38,7 @@ vis.add_geometry(mesh_coord_frame)
 vis.add_geometry(model)
 vis.add_geometry(tail)
 
-for i in range(min(len(sensor_data), N)):
+for i in range(0, N):
     acc = sensor_data[i][:3]
     gyro = sensor_data[i][3:]
 
